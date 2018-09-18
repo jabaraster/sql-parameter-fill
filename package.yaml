@@ -23,6 +23,11 @@ dependencies:
 - base >= 4.7 && < 5
 - parsec
 - split
+- http-conduit
+- lens
+- bytestring
+- aeson
+- aeson-lens
 
 library:
   source-dirs: src
