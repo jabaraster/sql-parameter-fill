@@ -23,7 +23,6 @@ dependencies:
 - base >= 4.7 && < 5
 - parsec
 - split
-- simple-sql-parser
 
 library:
   source-dirs: src
