@@ -5,7 +5,7 @@ import           Data.Functor.Identity
 import           Data.List.Split
 import           Data.Maybe
 import           Text.Parsec
-import           Text.Read             (readMaybe)
+import           Text.Read                     (readMaybe)
 
 type Sql = String
 

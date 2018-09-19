@@ -21,9 +21,16 @@ description:         Please see the README on GitHub at <https://github.com/gith
 
 dependencies:
 - base >= 4.7 && < 5
+- text
 - parsec
 - split
+- http-conduit
+- lens
+- bytestring
+- aeson
+- aeson-lens
 - simple-sql-parser
+- hssqlppp
 
 library:
   source-dirs: src
